@@ -1,0 +1,40 @@
+### Major Depressive Disorder
+Major Depressive Disorder (MDD) is characterized by at least two weeks of low mood that is present across most situations. Common symptoms include low self-esteem, loss of interest in normally enjoyable activities, low energy, and pain without a clear cause. A diagnosis typically requires at least five symptoms, including either depressed mood or loss of interest.
+
+### Generalized Anxiety Disorder
+GAD is defined by chronic and exaggerated worry and tension, often without provocation. Symptoms include restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbance. These must be present more days than not for at least six months.
+
+### Bipolar I Disorder
+Bipolar I involves manic episodes lasting at least 7 days (or less if hospitalization is required), often followed by depressive episodes. Symptoms include increased energy, reduced need for sleep, inflated self-esteem, talkativeness, and risky behavior.
+
+### Bipolar II Disorder
+Characterized by a pattern of depressive episodes and hypomanic episodes, but not the full-blown manic episodes seen in Bipolar I. Diagnosis requires at least one hypomanic and one major depressive episode.
+
+### Post-Traumatic Stress Disorder (PTSD)
+PTSD may develop after exposure to actual or threatened death, serious injury, or sexual violence. Symptoms include intrusive memories, avoidance behaviors, negative changes in mood and thinking, and hyperarousal. Symptoms persist for over a month and cause significant distress.
+
+### Obsessive-Compulsive Disorder (OCD)
+OCD involves intrusive, unwanted thoughts (obsessions) and repetitive behaviors (compulsions) that the person feels driven to perform. The compulsions are aimed at preventing or reducing distress but are often not realistically connected to the problem.
+
+### Attention Deficit Hyperactivity Disorder (ADHD)
+ADHD includes patterns of inattention (e.g., forgetfulness, distractibility) and/or hyperactivity-impulsivity (e.g., fidgeting, interrupting others) that interfere with functioning or development. Symptoms must be present before age 12 and occur in multiple settings.
+
+### Schizophrenia
+A severe mental disorder characterized by distortions in thinking, perception, emotions, language, sense of self, and behavior. Common symptoms include hallucinations, delusions, disorganized speech, and negative symptoms such as emotional flatness or lack of motivation. Symptoms must persist for at least six months.
+
+### Borderline Personality Disorder
+Marked by instability in interpersonal relationships, self-image, and emotions. Symptoms include intense fears of abandonment, unstable relationships, impulsivity, self-harming behavior, and chronic feelings of emptiness.
+
+### Panic Disorder
+Recurrent unexpected panic attacks — abrupt surges of intense fear or discomfort that peak within minutes. Followed by persistent concern about additional attacks or maladaptive changes in behavior related to the attacks.
+
+### Social Anxiety Disorder (Social Phobia)
+Persistent fear or anxiety about social situations where one may be scrutinized. The individual fears acting in a way that will be negatively evaluated and often avoids such situations.
+
+### Anorexia Nervosa
+An eating disorder characterized by restricted energy intake, intense fear of gaining weight, and a distorted body image. Often involves dangerously low body weight and denial of the seriousness of the condition.
+
+### Bulimia Nervosa
+Involves recurrent episodes of binge eating followed by compensatory behaviors like vomiting, fasting, or excessive exercise. Self-esteem is overly influenced by body shape and weight.
+
+

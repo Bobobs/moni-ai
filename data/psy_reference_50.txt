@@ -1,0 +1,627 @@
+
+### Major Depressive Disorder
+Summary: A mood disorder marked by persistent feelings of sadness, hopelessness, and lack of interest.
+Symptoms:
+- Depressed mood most of the day, nearly every day
+- Loss of interest or pleasure in most activities
+- Significant weight loss/gain or appetite changes
+- Insomnia or hypersomnia
+- Fatigue or loss of energy
+- Feelings of worthlessness or guilt
+- Diminished concentration
+- Recurrent thoughts of death or suicide
+Diagnosis Criteria: Five or more symptoms present during the same 2-week period.
+Differential Diagnosis: Dysthymia, Bipolar Disorder, Adjustment Disorder
+Case Example: A 34-year-old presents with low energy, social withdrawal, insomnia, and suicidal ideation for 3 weeks.
+
+### Generalized Anxiety Disorder
+Summary: Excessive anxiety and worry occurring more days than not for at least 6 months.
+Symptoms:
+- Restlessness or feeling keyed up
+- Easily fatigued
+- Difficulty concentrating
+- Irritability
+- Muscle tension
+- Sleep disturbance
+Diagnosis Criteria: At least three of these symptoms must be present (only one for children).
+Differential Diagnosis: Panic Disorder, OCD, PTSD
+Case Example: A 45-year-old reports constant worry over family finances, tension headaches, and poor sleep for 8 months.
+
+### PTSD
+Summary: A disorder triggered by experiencing or witnessing a traumatic event.
+Symptoms:
+- Intrusive memories or flashbacks
+- Avoidance of reminders
+- Negative thoughts and mood
+- Hyperarousal (e.g., startle response, irritability)
+Diagnosis Criteria: Symptoms persist for more than 1 month and cause significant distress.
+Differential Diagnosis: Acute Stress Disorder, Depression
+Case Example: A veteran describes nightmares, social withdrawal, and hypervigilance after returning from deployment.
+
+### ADHD
+Summary: A neurodevelopmental disorder with inattention and/or hyperactivity-impulsivity.
+Symptoms:
+- Fails to give close attention to details
+- Difficulty organizing tasks
+- Often fidgets or leaves seat
+- Interrupts or intrudes on others
+Diagnosis Criteria: Symptoms must be present before age 12 and in two or more settings.
+Differential Diagnosis: Anxiety, Mood Disorders, Autism
+Case Example: A 10-year-old boy struggles to complete homework, constantly interrupts class, and can't sit still.
+
+### Schizophrenia
+Summary: A severe disorder involving distorted thinking, perceptions, and emotions.
+Symptoms:
+- Delusions
+- Hallucinations
+- Disorganized speech
+- Negative symptoms (e.g., flat affect)
+Diagnosis Criteria: Two or more core symptoms for at least 1 month; continuous disturbance for 6+ months.
+Differential Diagnosis: Schizoaffective Disorder, Bipolar with psychosis
+Case Example: A 23-year-old hears voices, believes he's under surveillance, and has withdrawn socially.
+
+### OCD
+Summary: Persistent, intrusive thoughts (obsessions) and repetitive behaviors (compulsions).
+Symptoms:
+- Obsessions (e.g., fear of contamination)
+- Compulsions (e.g., excessive cleaning)
+Diagnosis Criteria: Obsessions/compulsions cause significant distress or interfere with functioning.
+Differential Diagnosis: GAD, Tic disorders
+Case Example: A patient checks locks 20 times before leaving and washes hands every 15 minutes.
+
+### Panic Disorder
+Summary: Sudden recurrent panic attacks with ongoing fear of future attacks.
+Symptoms:
+- Palpitations
+- Sweating
+- Trembling
+- Shortness of breath
+- Fear of dying
+Diagnosis Criteria: At least one month of concern about additional attacks or their consequences.
+Differential Diagnosis: GAD, Phobias, Hyperthyroidism
+Case Example: A 28-year-old experiences sudden, intense fear while shopping, with heart pounding and dizziness.
+
+### Borderline Personality Disorder
+Summary: Instability in relationships, self-image, and emotions.
+Symptoms:
+- Frantic efforts to avoid abandonment
+- Unstable relationships
+- Impulsivity
+- Recurrent suicidal behavior
+- Chronic feelings of emptiness
+Diagnosis Criteria: At least five of the DSM-5 BPD traits.
+Differential Diagnosis: Bipolar II, PTSD, Histrionic PD
+Case Example: A 27-year-old rapidly shifts from idealizing to devaluing partners, self-injures when distressed.
+
+### Anorexia Nervosa
+Summary: An eating disorder marked by an intense fear of gaining weight and distorted body image.
+Symptoms:
+- Restriction of food intake
+- Intense fear of weight gain
+- Distorted body image
+Diagnosis Criteria: BMI below normal and denial of seriousness
+Differential Diagnosis: Bulimia, Depression
+Case Example: A teen girl eats <500 calories/day, exercises obsessively, and insists she's overweight at BMI 15.
+
+### Social Anxiety Disorder
+Summary: Persistent fear of social situations due to possible scrutiny or judgment.
+Symptoms:
+- Fear of embarrassment or humiliation
+- Avoidance of social settings
+- Physical symptoms (blushing, nausea)
+Diagnosis Criteria: Lasts 6+ months and causes impairment
+Differential Diagnosis: Agoraphobia, Avoidant Personality Disorder
+Case Example: A college student avoids speaking in class and experiences nausea when entering crowded rooms.
+
+### Persistent Depressive Disorder (Dysthymia)
+Summary: A chronic form of depression with less severe but long-lasting symptoms compared to MDD.
+Symptoms:
+- Depressed mood for most of the day, more days than not, for at least 2 years
+- Poor appetite or overeating
+- Insomnia or hypersomnia
+- Low energy or fatigue
+- Low self-esteem
+- Poor concentration or indecisiveness
+- Feelings of hopelessness
+Diagnosis Criteria: At least two symptoms present along with depressed mood for 2+ years.
+Differential Diagnosis: Major Depression, Bipolar II, Cyclothymia
+Case Example: A 38-year-old reports feeling "low" most days for 3 years, with poor sleep and difficulty concentrating.
+
+### Cyclothymic Disorder
+Summary: A milder, chronic form of bipolar disorder with periods of hypomanic and depressive symptoms.
+Symptoms:
+- Numerous periods of hypomanic symptoms
+- Numerous periods of depressive symptoms
+- Symptoms do not meet criteria for full hypomanic or depressive episodes
+Diagnosis Criteria: Symptoms present for at least 2 years in adults, 1 year in children/adolescents.
+Differential Diagnosis: Bipolar I/II, Borderline Personality Disorder
+Case Example: A 29-year-old alternates between energetic, talkative weeks and withdrawn, pessimistic periods over 2 years.
+
+### Dissociative Identity Disorder (DID)
+Summary: Presence of two or more distinct personality states with gaps in memory.
+Symptoms:
+- Disruption of identity with two or more personality states
+- Recurrent gaps in memory for everyday events, personal info, or trauma
+- Significant distress or impairment in functioning
+Diagnosis Criteria: Not attributable to substance use or medical condition.
+Differential Diagnosis: PTSD, Schizophrenia, Borderline Personality Disorder
+Case Example: A 26-year-old female reports missing time and being told she behaves differently by friends and family.
+
+### Somatic Symptom Disorder
+Summary: Excessive thoughts, feelings, or behaviors related to somatic symptoms that are distressing or disrupt daily life.
+Symptoms:
+- Persistent thoughts about seriousness of symptoms
+- High anxiety about health
+- Excessive time and energy devoted to symptoms
+Diagnosis Criteria: At least one somatic symptom present, lasting 6+ months.
+Differential Diagnosis: Illness Anxiety Disorder, Factitious Disorder
+Case Example: A 41-year-old male frequently visits doctors with various physical complaints and anxiety about serious illness.
+
+### Illness Anxiety Disorder
+Summary: Preoccupation with having or acquiring a serious illness, with minimal or no somatic symptoms.
+Symptoms:
+- High anxiety about health
+- Excessive health-related behaviors or maladaptive avoidance
+Diagnosis Criteria: Preoccupation persists for 6+ months, despite medical reassurance.
+Differential Diagnosis: Somatic Symptom Disorder, OCD, GAD
+Case Example: A 36-year-old reads medical blogs constantly and fears he has a fatal illness despite normal lab results.
+
+### Delusional Disorder
+Summary: Persistent delusions for 1+ month without other features of schizophrenia.
+Symptoms:
+- Non-bizarre delusions (e.g., being followed, poisoned)
+- Functioning not markedly impaired outside delusion
+Diagnosis Criteria: Delusions persist for at least 1 month without hallucinations, disorganized speech, or behavior.
+Differential Diagnosis: Schizophrenia, OCD, Paranoid Personality Disorder
+Case Example: A 52-year-old is convinced her coworkers are plotting to get her fired, though no evidence exists.
+
+### Avoidant Personality Disorder
+Summary: Social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation.
+Symptoms:
+- Avoids interpersonal contact due to fear of rejection
+- Is inhibited in new situations
+- Views self as socially inept
+Diagnosis Criteria: Pervasive pattern beginning in early adulthood.
+Differential Diagnosis: Social Anxiety Disorder, Schizoid PD
+Case Example: A 24-year-old avoids group work and relationships, convinced others will judge him harshly.
+
+
+### Agoraphobia
+Summary: Intense fear or anxiety about situations where escape may be difficult (e.g., crowds, public transport).
+Symptoms:
+- Avoidance of two or more agoraphobic situations
+- Requires companion or endures with intense fear
+Diagnosis Criteria: Fear lasts 6+ months and causes significant impairment.
+Differential Diagnosis: Social Anxiety, Specific Phobia
+Case Example: A 40‑year‑old avoids buses and shopping malls, fearing inability to escape if panic occurs.
+
+### Specific Phobia
+Summary: Marked fear or anxiety about a specific object or situation (e.g., flying, animals, heights).
+Symptoms:
+- Immediate fear response
+- Avoidance or endured with intense distress
+Diagnosis Criteria: Persisting 6+ months and causes impairment.
+Differential Diagnosis: Social Anxiety, Agoraphobia
+Case Example: A man refuses air travel due to severe fear of flying despite work demands.
+
+### Adjustment Disorder
+Summary: Emotional or behavioral symptoms in response to an identifiable stressor.
+Symptoms:
+- Distress out of proportion to stressor
+- Significant impairment in functioning
+Diagnosis Criteria: Onset within 3 months of stressor, resolves within 6 months after stressor ends.
+Differential Diagnosis: PTSD, Major Depression
+Case Example: A college student develops anxiety and insomnia after failing an exam, lasting 4 weeks.
+
+### Reactive Attachment Disorder
+Summary: Consistent pattern of emotionally withdrawn behavior toward caregivers in children.
+Symptoms:
+- Rarely seeks or responds to comfort
+- Limited positive affect
+- Episodes of unexplained irritability or fearfulness
+Diagnosis Criteria: Evidence of neglect and symptoms before age 5.
+Differential Diagnosis: Autism Spectrum Disorder, Depression
+Case Example: A 4‑year‑old foster child shows minimal response when distressed and avoids eye contact.
+
+### Separation Anxiety Disorder
+Summary: Excessive fear concerning separation from home or attachment figures.
+Symptoms:
+- Distress when anticipating separation
+- Worry about losing attachment figures
+- Refusal to go out or sleep away
+Diagnosis Criteria: Lasts 4+ weeks in children, 6+ months in adults.
+Differential Diagnosis: GAD, Panic Disorder
+Case Example: An 8‑year‑old refuses school, fearing harm will come to her mother.
+
+### Selective Mutism
+Summary: Consistent failure to speak in specific social situations despite speaking in others.
+Symptoms:
+- Interferes with educational or social communication
+- Duration at least 1 month
+Diagnosis Criteria: Not due to lack of knowledge or comfort with spoken language.
+Differential Diagnosis: Social Anxiety, Communication Disorders
+Case Example: A kindergartener speaks freely at home but is silent at school.
+
+### Autism Spectrum Disorder
+Summary: Neurodevelopmental disorder characterized by deficits in social communication and restricted, repetitive patterns of behavior.
+Symptoms:
+- Difficulty with social reciprocity
+- Restricted interests
+- Sensory sensitivities
+Diagnosis Criteria: Symptoms present early in development and cause impairment.
+Differential Diagnosis: Intellectual Disability, ADHD
+Case Example: A 6‑year‑old has limited eye contact, lines up toys, and has intense interest in trains.
+
+### Oppositional Defiant Disorder
+Summary: Pattern of angry/irritable mood, argumentative behavior, or vindictiveness lasting 6+ months.
+Symptoms:
+- Often loses temper
+- Argues with authority
+- Deliberately annoys others
+Diagnosis Criteria: At least 4 symptoms in interaction outside siblings.
+Differential Diagnosis: Conduct Disorder, ADHD
+Case Example: A 10‑year‑old frequently argues with teachers and refuses rules.
+
+### Conduct Disorder
+Summary: Repetitive pattern of violating basic rights of others or societal norms.
+Symptoms:
+- Aggression to people/animals
+- Destruction of property
+- Theft or serious rule violations
+Diagnosis Criteria: 3+ criteria in last 12 months with impairment.
+Differential Diagnosis: ODD, Antisocial Personality (if >18)
+Case Example: A teenager engages in vandalism and shoplifting.
+
+### Intermittent Explosive Disorder
+Summary: Recurrent behavioral outbursts representing failure to control aggressive impulses.
+Symptoms:
+- Verbal or physical aggression twice weekly for 3 months
+- Three damaging outbursts within 12 months
+Diagnosis Criteria: Disproportionate to provocation, not premeditated.
+Differential Diagnosis: Conduct Disorder, Bipolar Disorder
+Case Example: A 25‑year‑old breaks objects during minor arguments.
+
+### Disruptive Mood Dysregulation Disorder
+Summary: Severe recurrent temper outbursts disproportionate to situation, chronic irritability.
+Symptoms:
+- Outbursts 3+ times per week
+- Mood between outbursts is irritable
+Diagnosis Criteria: Onset before age 10, present for 12+ months.
+Differential Diagnosis: Bipolar Disorder, ODD
+Case Example: An 8‑year‑old has daily rage episodes and persistent irritability.
+
+### Insomnia Disorder
+Summary: Persistent difficulty initiating or maintaining sleep.
+Symptoms:
+- Difficulty falling asleep
+- Frequent awakenings
+Diagnosis Criteria: Occurs 3+ nights/week for 3+ months, causes distress.
+Differential Diagnosis: Depression, Sleep Apnea
+Case Example: A 45‑year‑old struggles to sleep >4 hours nightly for 4 months.
+
+### Hypersomnolence Disorder
+Summary: Excessive sleepiness despite main sleep period of at least 7 hours.
+Symptoms:
+- Recurrent daytime naps
+- Non‑restorative long sleep
+Diagnosis Criteria: Occurs 3+ times/week for 3+ months.
+Differential Diagnosis: Narcolepsy, Depression
+Case Example: A young adult sleeps 11 hours nightly yet naps daily.
+
+### Narcolepsy
+Summary: Recurrent periods of irrepressible need to sleep.
+Symptoms:
+- Cataplexy
+- Hypocretin deficiency
+Diagnosis Criteria: Occurs at least 3 times/week for 3+ months.
+Differential Diagnosis: Hypersomnolence, Seizure Disorders
+Case Example: A 19‑year‑old falls asleep during class and experiences sudden muscle weakness when laughing.
+
+### Restless Legs Syndrome
+Summary: Urge to move legs worsened during rest and at night.
+Symptoms:
+- Relieved by movement
+Diagnosis Criteria: Occurs 3+ times/week for 3+ months.
+Differential Diagnosis: Peripheral neuropathy, Akathisia
+Case Example: A 60‑year‑old reports leg discomfort each evening relieved by walking.
+
+### Nightmare Disorder
+Summary: Recurrent frightening dreams that cause awakening.
+Symptoms:
+- Vivid recall of dreams
+- Distress or impairment
+Diagnosis Criteria: Dreams occur during REM sleep, not attributable to substances.
+Differential Diagnosis: PTSD, Sleep Terror Disorder
+Case Example: A veteran has weekly nightmares that disrupt sleep.
+
+### Alcohol Use Disorder
+Summary: Problematic drinking leading to impairment or distress.
+Symptoms:
+- Craving
+- Unsuccessful attempts to cut down
+- Continued use despite problems
+Diagnosis Criteria: 2+ criteria within 12 months.
+Differential Diagnosis: Bipolar, Depression
+Case Example: A 38‑year‑old drinks daily despite liver issues.
+
+### Cannabis Use Disorder
+Summary: Problematic cannabis use causing impairment.
+Symptoms:
+- Tolerance
+- Withdrawal
+- Use in hazardous situations
+Diagnosis Criteria: 2+ criteria within 12 months.
+Differential Diagnosis: Anxiety Disorder, Psychosis
+Case Example: A college student uses marijuana multiple times daily, impacting grades.
+
+### Opioid Use Disorder
+Summary: A problematic pattern of opioid use.
+Symptoms:
+- Craving opioids
+- Failure to fulfill obligations
+- Tolerance, withdrawal
+Diagnosis Criteria: 2+ criteria within 12 months.
+Differential Diagnosis: Chronic Pain Treatment, Depression
+Case Example: A patient escalates prescription opioid doses and obtains pills illegally.
+
+### Gambling Disorder
+Summary: Persistent problematic gambling behavior leading to impairment.
+Symptoms:
+- Preoccupation with gambling
+- Needs to gamble with increasing amounts
+- Attempts to recoup losses
+Diagnosis Criteria: 4+ criteria in 12 months.
+Differential Diagnosis: Manic Episode, Impulse‑control Disorders
+Case Example: A 42‑year‑old hides mounting debts from casino visits.
+
+### Factitious Disorder Imposed on Self
+Summary: Falsification of physical or psychological signs or symptoms without obvious external incentives.
+Symptoms:
+- Inducing injury or disease
+- Presents self as ill
+Diagnosis Criteria: Behavior occurs without external rewards.
+Differential Diagnosis: Somatic Symptom Disorder, Malingering
+Case Example: A nurse contaminates wounds to prolong hospitalization.
+
+### Conversion Disorder (Functional Neurological Symptom Disorder)
+Summary: Neurological symptoms incompatible with recognized conditions.
+Symptoms:
+- Paralysis, blindness, seizures without neurological basis
+Diagnosis Criteria: Clinical findings provide evidence of incompatibility.
+Differential Diagnosis: Factitious Disorder, Neurological Disease
+Case Example: An adolescent develops leg paralysis after trauma but normal nerve studies.
+
+### Body Dysmorphic Disorder
+Summary: Preoccupation with perceived defects in appearance.
+Symptoms:
+- Repetitive behaviors (mirror checking)
+- Significant distress
+Diagnosis Criteria: Appearance concerns not better explained by eating disorder.
+Differential Diagnosis: OCD, Eating Disorders
+Case Example: A 22‑year‑old believes her nose is deformed despite normal appearance.
+
+### Hoarding Disorder
+Summary: Persistent difficulty discarding possessions regardless of value.
+Symptoms:
+- Perceived need to save items
+- Accumulation congests living areas
+Diagnosis Criteria: Causes significant distress or impairment.
+Differential Diagnosis: OCD, Depression
+Case Example: A senior’s home is filled with newspapers, blocking exits.
+
+### Trichotillomania (Hair‑Pulling Disorder)
+Summary: Recurrent pulling out of one’s hair, resulting in hair loss.
+Symptoms:
+- Repeated attempts to stop
+Diagnosis Criteria: Causes distress or impairment.
+Differential Diagnosis: OCD, Dermatological Conditions
+Case Example: A student pulls scalp hair during exams, leaving bald patches.
+
+### Excoriation (Skin‑Picking) Disorder
+Summary: Recurrent skin picking resulting in lesions.
+Symptoms:
+- Repeated attempts to stop
+Diagnosis Criteria: Causes distress or impairment.
+Differential Diagnosis: OCD, Substance‑Induced Pruritus
+Case Example: A woman picks at facial skin for hours daily.
+
+### Dissociative Amnesia
+Summary: Inability to recall important autobiographical info, usually traumatic.
+Symptoms:
+- Localized or selective amnesia
+Diagnosis Criteria: Causes distress, not due to substances.
+Differential Diagnosis: PTSD, Neurological Conditions
+Case Example: A crash survivor cannot recall the accident.
+
+### Depersonalization/Derealization Disorder
+Summary: Persistent experiences of detachment from self or surroundings.
+Symptoms:
+- Feeling like an outside observer of one’s body
+Diagnosis Criteria: Reality testing remains intact.
+Differential Diagnosis: Panic Disorder, Schizophrenia
+Case Example: A graduate student feels unreal during stress exams.
+
+### Gender Dysphoria
+Summary: Distress due to incongruence between experienced and assigned gender.
+Symptoms:
+- Desire to be other gender
+- Preference for clothes or roles of other gender
+Diagnosis Criteria: Lasts 6+ months and causes impairment.
+Differential Diagnosis: Transvestic Disorder, Body Dysmorphic Disorder
+Case Example: A 17‑year‑old assigned male wishes to undergo transition.
+
+### Paranoid Personality Disorder
+Summary: Pervasive distrust and suspicion of others.
+Symptoms:
+- Suspects exploitation or harm
+- Reluctant to confide
+Diagnosis Criteria: Begins by early adulthood.
+Differential Diagnosis: Delusional Disorder, Schizophrenia
+Case Example: A coworker interprets benign comments as deliberate slights.
+
+### Schizoid Personality Disorder
+Summary: Detachment from social relationships, restricted emotional expression.
+Symptoms:
+- Prefers solitary activities
+- Little interest in sexual experiences
+Diagnosis Criteria: Pattern starting in early adulthood.
+Differential Diagnosis: Autism Spectrum, Schizotypal PD
+Case Example: A 30‑year‑old lives alone, works night shifts, and feels indifferent to praise.
+
+### Schizotypal Personality Disorder
+Summary: Acute discomfort with close relationships, cognitive/perceptual distortions, eccentricities.
+Symptoms:
+- Odd beliefs or magical thinking
+- Unusual perceptual experiences
+Diagnosis Criteria: Pattern beginning by early adulthood.
+Differential Diagnosis: Autism, Schizophrenia Prodrome
+Case Example: A 27‑year‑old believes in telepathy and dresses eccentrically.
+
+### Histrionic Personality Disorder
+Summary: Excessive emotionality and attention‑seeking.
+Symptoms:
+- Uncomfortable when not center of attention
+- Inappropriately seductive behavior
+Diagnosis Criteria: Early adulthood onset.
+Differential Diagnosis: Borderline PD, Narcissistic PD
+Case Example: A 32‑year‑old dramatizes minor events and uses flamboyant clothing.
+
+### Narcissistic Personality Disorder
+Summary: Grandiosity, need for admiration, lack of empathy.
+Symptoms:
+- Exaggerates achievements
+- Sense of entitlement
+Diagnosis Criteria: Pattern beginning in early adulthood.
+Differential Diagnosis: Antisocial PD, Bipolar Disorder
+Case Example: A CEO dismisses staff feelings and demands constant praise.
+
+### Antisocial Personality Disorder
+Summary: Disregard for and violation of the rights of others since age 15.
+Symptoms:
+- Deceitfulness
+- Impulsivity
+- Lack of remorse
+Diagnosis Criteria: Must be 18+ with Conduct Disorder history.
+Differential Diagnosis: Substance Use, Borderline PD
+Case Example: A convict repeatedly lies and shows no regret.
+
+### Dependent Personality Disorder
+Summary: Excessive need to be cared for, leading to submissive behavior.
+Symptoms:
+- Difficulty making decisions without advice
+- Feels helpless when alone
+Diagnosis Criteria: Early adulthood onset.
+Differential Diagnosis: Avoidant PD, Depression
+Case Example: A 35‑year‑old defers all decisions to partner.
+
+### Obsessive‑Compulsive Personality Disorder
+Summary: Preoccupation with orderliness, perfectionism, and control.
+Symptoms:
+- Perfectionism that interferes with task completion
+- Reluctance to delegate
+Diagnosis Criteria: Pattern from early adulthood.
+Differential Diagnosis: OCD, Autism
+Case Example: An accountant spends hours aligning papers precisely.
+
+### Sleepwalking Disorder (NREM Sleep Arousal)
+Summary: Repeated episodes of rising from bed and walking during sleep.
+Symptoms:
+- Blank stare, unresponsive
+Diagnosis Criteria: Amnesia for episode, causes distress or risk.
+Differential Diagnosis: REM Behavior Disorder, Epilepsy
+Case Example: A teen found wandering outside at night with no memory.
+
+### Kleptomania
+Summary: Recurrent failure to resist impulses to steal unneeded items.
+Symptoms:
+- Tension before theft, relief after
+Diagnosis Criteria: Objects not for personal use or value.
+Differential Diagnosis: Conduct Disorder, Antisocial PD
+Case Example: A shopper impulsively steals low‑value trinkets.
+
+### Pyromania
+Summary: Deliberate fire setting on more than one occasion.
+Symptoms:
+- Tension before act, fascination with fire
+Diagnosis Criteria: Not for monetary gain or political expression.
+Differential Diagnosis: Conduct Disorder, Antisocial PD
+Case Example: An adult sets small fires for excitement.
+
+### Persistent Complex Bereavement Disorder
+Summary: Intense grief with persistent yearning for the deceased lasting beyond cultural norms.
+Symptoms:
+- Difficulty accepting death
+- Emotional numbness
+Diagnosis Criteria: 12+ months in adults, 6+ in children.
+Differential Diagnosis: MDD, PTSD
+Case Example: A widow feels life is meaningless 18 months after spouse’s death.
+
+### Substance/Medication‑Induced Anxiety Disorder
+Summary: Prominent anxiety symptoms due to substance intoxication or withdrawal.
+Symptoms:
+- Panic attacks
+- Generalized anxiety
+Diagnosis Criteria: Evidence from history/lab of substance causation.
+Differential Diagnosis: Primary Anxiety Disorders
+Case Example: Anxiety following high caffeine consumption.
+
+### Substance/Medication‑Induced Depressive Disorder
+Summary: Depressive mood due to substance or medication effect.
+Symptoms:
+- Low mood, anhedonia
+Diagnosis Criteria: Symptoms develop during use or withdrawal.
+Differential Diagnosis: MDD, Bipolar
+Case Example: Depression during chronic steroid therapy.
+
+### Tourette's Disorder
+Summary: Multiple motor and one or more vocal tics for over 1 year.
+Symptoms:
+- Motor tics (blinking)
+- Vocal tics (grunting)
+Diagnosis Criteria: Onset before age 18.
+Differential Diagnosis: Persistent Tic Disorder, OCD
+Case Example: A 9‑year‑old displays eye‑blinking and throat‑clearing tics.
+
+### Persistent Motor or Vocal Tic Disorder
+Summary: Single or multiple motor OR vocal tics for >1 year.
+Symptoms:
+- Simple motor tics
+Diagnosis Criteria: Onset before 18, never met Tourette's criteria.
+Differential Diagnosis: Tourette's, Stereotypic Movement
+Case Example: A teen persistently shrugs shoulders.
+
+### Mild Neurocognitive Disorder
+Summary: Modest cognitive decline not interfering with independence.
+Symptoms:
+- Memory lapses
+- Executive dysfunction
+Diagnosis Criteria: Concern and modest impairment on cognitive testing.
+Differential Diagnosis: Normal Aging, Depression
+Case Example: A 72‑year‑old misplaces objects but manages finances.
+
+### Major Neurocognitive Disorder
+Summary: Significant cognitive decline interfering with independence.
+Symptoms:
+- Forgetting familiar names
+- Difficulty with daily tasks
+Diagnosis Criteria: Substantial impairment documented.
+Differential Diagnosis: Delirium, Depression
+Case Example: A retiree cannot manage medications or bills.
+
+### Major NCD Due to Alzheimer's Disease
+Summary: Gradual progressive cognitive decline with memory impairment and one other domain.
+Symptoms:
+- Learning and recall deficits
+- Disorientation
+Diagnosis Criteria: Probable AD based on genetics or clear decline pattern.
+Differential Diagnosis: Frontotemporal NCD, Vascular NCD
+Case Example: A 68‑year‑old gradually forgets family events and gets lost.
+
+### Frontotemporal Neurocognitive Disorder
+Summary: Early personality/behavior changes or language impairment with frontal/temporal atrophy.
+Symptoms:
+- Disinhibition
+- Loss of empathy
+Diagnosis Criteria: Gradual onset with decline.
+Differential Diagnosis: Alzheimer's, Psychiatric Disorders
+Case Example: A 60‑year‑old becomes socially inappropriate and apathetic.
